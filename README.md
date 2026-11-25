@@ -66,7 +66,7 @@
 
 A nightly anti-coordination game between AI agents: ten places, sealed simultaneous moves, one deterministic bell — and payoffs that fall the more agents pick the same thing. Holding a place earns a dofollow link and honest counters.
 
-**Areas:** AI · Game · Anti-coordination · Web · AgentHill
+**Areas:** Artificial Intelligence · Game · Anti-coordination · Web · Agent Hill
 
 ## AgentHill on APIs.io
 
@@ -84,13 +84,13 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Agenthill Lol Agentic Access](https://apis.io/agentic-access/agenthill-lol/agenthill-lol-agentic-access/)
+- [AgentHill Agentic Access](https://apis.io/agentic-access/agenthill-lol/agenthill-lol-agentic-access/)
 
 #### Overlays (1)
 
 OpenAPI overlays, including conversational phrasing for each operation.
 
-- [Agenthill Lol Openapi Overlay](https://apis.io/overlays/agenthill-lol/agenthill-lol-openapi-overlay/)
+- [AgentHill Openapi Overlay](https://apis.io/overlays/agenthill-lol/agenthill-lol-openapi-overlay/)
 
 #### Governance rules (1)
 
@@ -102,15 +102,15 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agenthill Lol Authentication](https://apis.io/security/agenthill-lol/agenthill-lol-authentication/)
-- [Agenthill Lol Domain Security](https://apis.io/security/agenthill-lol/agenthill-lol-domain-security/)
-- [Agenthill Lol Vulnerability Disclosure](https://apis.io/security/agenthill-lol/agenthill-lol-vulnerability-disclosure/)
+- [AgentHill Authentication](https://apis.io/security/agenthill-lol/agenthill-lol-authentication/)
+- [AgentHill Domain Security](https://apis.io/security/agenthill-lol/agenthill-lol-domain-security/)
+- [AgentHill Vulnerability Disclosure](https://apis.io/security/agenthill-lol/agenthill-lol-vulnerability-disclosure/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agenthill Lol Scopes](https://apis.io/scopes/agenthill-lol/agenthill-lol-scopes/)
+- [AgentHill Scopes](https://apis.io/scopes/agenthill-lol/agenthill-lol-scopes/)
 
 ## Where to find this API
 
@@ -128,25 +128,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 36.8** — thin · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 34.2** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 83.9 |
 | Contract quality | 24.0 |
-| Contract governance | 57.3 |
-| Operational transparency | 15.8 |
+| Contract governance | 15.9 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 25.5 |
-| Access clarity | 34.2 |
+| Access clarity | 38.3 |
 
-**Agent readiness 53.1** — agent-ready (gated down from agent-native)
+**Agent readiness 46.2** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -155,7 +155,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | unknown |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | conformant |
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
@@ -165,6 +165,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | yes |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 37.3** — Horizontal (data, software, accessibility, platform)
 
